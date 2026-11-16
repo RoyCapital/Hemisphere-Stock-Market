@@ -1,4 +1,4 @@
-# Hémisphère — simulation boursière
+# Hémisphère Simulation boursière
 
 Un jeu de simulation de marchés financiers dans un monde fictif, inspiré des terminaux financiers professionnels. Tout tient dans un seul fichier HTML : aucun serveur, aucune installation, aucun compte.
 
