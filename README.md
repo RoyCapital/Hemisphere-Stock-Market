@@ -1,6 +1,7 @@
 # Hémisphère Simulation boursière
 
 POUR UNE LANCER UNE NOUVELLE PARTE : Section SIMULATION - Descendre en bas - NOUVELLE PARTIE
+
 Un jeu de simulation de marchés financiers dans un monde fictif, inspiré des terminaux financiers professionnels. Tout tient dans un seul fichier HTML : aucun serveur, aucune installation, aucun compte.
 
 *A fictional stock-market simulation game in a single HTML file. English interface available (button "English" at the top).*
